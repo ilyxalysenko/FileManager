@@ -16,7 +16,7 @@ using System.Windows.Shapes;
 namespace RootCat.Views
 {
     /// <summary>
-    /// Логика взаимодействия для Window1.xaml
+    /// Логика взаимодействия для MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
     {
